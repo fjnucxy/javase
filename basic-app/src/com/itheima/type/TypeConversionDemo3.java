@@ -4,7 +4,7 @@ public class TypeConversionDemo3 {
     public static void main(String[] args) {
         // 目标：掌握强制类型转换。
         int a = 20;
-        byte b = (byte) a;  // ALT + ENTER 强制类型转换。
+        byte b = (byte) a;  // ALT + ENTER 强制类 型转换。
 
         System.out.println(a);
         System.out.println(b);
